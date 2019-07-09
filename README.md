@@ -4,7 +4,7 @@
 
 # Índice de conteúdos
 
-1. [Variáveis e valores](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/1.md)
+1. [Variáveis e valores](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/1)
 
 2. Operadores
 
