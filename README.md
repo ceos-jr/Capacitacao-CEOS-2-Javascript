@@ -53,9 +53,9 @@ console.log('Ola mundo :)'); // imprime 'Ola mundo :)' no console
 
 Todo código javascript que estiver no arquivo `hello.js` será executado quando abrirmos nosso HTML :)
 
-# Sobre essa trilha
+<!-- # Sobre essa trilha
 
-A trilha de javascript possui 2 opções de materiais: uma apostila que estamos produzindo, e um material alternativo, que são partes selecionadas do livro You Don't Know JS.
+A trilha de javascript possui 2 opções de materiais: uma apostila que estamos produzindo, e um material alternativo, que são partes selecionadas do livro You Don't Know JS. -->
 
 # Índice de conteúdos
 
@@ -67,7 +67,7 @@ A trilha de javascript possui 2 opções de materiais: uma apostila que estamos 
 
 4. Estruturas de decisão - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/4)
 
-5. Estruturas de repetição - [Apostila]()
+5. Estruturas de repetição - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/5)
 
 6. Funções - [Apostila]()
 
