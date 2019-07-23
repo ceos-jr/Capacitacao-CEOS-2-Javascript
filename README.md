@@ -69,26 +69,26 @@ A trilha de javascript possui 2 opções de materiais: uma apostila que estamos 
 
 5. Estruturas de repetição - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/5)
 
-6. Funções -
+6. Funções - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/6)
 
-7. Escopo de variáveis - 
+7. Escopo de variáveis - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/7)
 
-8. Closures - 
+8. Objetos - 
 
-9. Objetos - 
+9. Arrays - 
 
-10. Arrays - 
+10. Spread e Rest - 
 
-11. Spread e Rest - 
+11. Estruturas de dados - 
 
-12. Estruturas de dados - 
+12. Try/Catch/Finally/throw - 
 
-13. Try/Catch/Finally/throw - 
+13. this - 
 
-14. this - 
+14. Arrow functions - 
 
-15. Arrow functions - 
+15. prototype - 
 
-16. prototype - 
+16. Class - 
 
-17. Class - 
+17. Closures - 
