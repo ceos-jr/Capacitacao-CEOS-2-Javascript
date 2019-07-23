@@ -73,9 +73,9 @@ A trilha de javascript possui 2 opções de materiais: uma apostila que estamos 
 
 7. Escopo de variáveis - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/7)
 
-8. Objetos - 
+8. Objetos - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/8)
 
-9. Arrays - 
+9. Arrays - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/9)
 
 10. Spread e Rest - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/10)
 
