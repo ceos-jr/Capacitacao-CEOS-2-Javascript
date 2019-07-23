@@ -81,7 +81,7 @@ A trilha de javascript possui 2 opções de materiais: uma apostila que estamos 
 
 11. Estruturas de dados - 
 
-12. Try/Catch/Finally/throw - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/11)
+12. Try/Catch/Finally/throw - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/12)
 
 13. this - 
 
