@@ -83,7 +83,7 @@ A trilha de javascript possui 2 opções de materiais: uma apostila que estamos 
 
 12. Try/Catch/Finally/throw - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/12)
 
-13. this - 
+13. this - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/13)
 
 14. Arrow functions - 
 
