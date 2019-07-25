@@ -79,7 +79,7 @@ A trilha de javascript possui 2 opções de materiais: uma apostila que estamos 
 
 10. Spread e Rest - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/10)
 
-11. Estruturas de dados - 
+11. Estruturas de dados - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/11)
 
 12. Try/Catch/Finally/throw - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/12)
 
