@@ -4,58 +4,7 @@ No principio, Javascript era uma linguagem voltado ao browser (nossos navegadore
 
 # Como executar Javascript
 
-Existem algumas formas, vou apresentar duas maneiras:
-
-- Criando um arquivo HTML e usando a tag `<script> </script>`
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <script>
-        console.log('Ola mundo :)'); // imprime 'Ola mundo :)' no console
-    </script>
-</body>
-</html>
-```
-
-Tudo que estiver dentro das tag `<script> </script>` será executado como *código javascript*, portanto, basta abrir esse código html no seu navegador, que você pode visualizar a **saída** do seu código javascript no **console** do navegador.
-
-- Criando um arquivo HTML e um arquivo com a extensão `.js` na mesma pasta
-
-É possível referenciar um arquivo *javascript* dentro do HTML, com a tag `<script> </script>`, basta usar o atributo `src`.
-
-Criando um arquivo `hello.js` e chamando esse arquivo dentro de um HTML.
-
-HTML:
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <script src='hello.js'>
-    </script>
-</body>
-</html>
-```
-
-Arquivo javascript `hello.js`:
-```
-console.log('Ola mundo :)'); // imprime 'Ola mundo :)' no console
-```
-
-Todo código javascript que estiver no arquivo `hello.js` será executado quando abrirmos nosso HTML :)
-
-<!-- # Sobre essa trilha
-
-A trilha de javascript possui 2 opções de materiais: uma apostila que estamos produzindo, e um material alternativo, que são partes selecionadas do livro You Don't Know JS. -->
+Se você nunca executou algum código Javascript, veja esse [pequeno guia clicando aqui.](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/executarjs);
 
 # Índice de conteúdos
 
@@ -85,10 +34,12 @@ A trilha de javascript possui 2 opções de materiais: uma apostila que estamos 
 
 13. this - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/13)
 
-14. Arrow functions - 
+14. Arrow functions - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/14)
 
-15. prototype - 
+15. prototype - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/15) 
 
-16. Class - 
+16. Class - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/16)
 
-17. Closures - 
+# Conteúdos Opcionais
+
+17. Closures - [Apostila](https://ceos-jr.github.io/Capacitacao-CEOS-2-Javascript/17)
