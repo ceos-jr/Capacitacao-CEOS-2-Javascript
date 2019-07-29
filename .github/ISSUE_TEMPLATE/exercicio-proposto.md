@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-# Exercicio Proposto 2
+# Exercicio Proposto 
 
-Desrcrição do exercicio
+Descrição do exercicio
 
 # Forma de Envio:
 
